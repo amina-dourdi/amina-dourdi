@@ -4,7 +4,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-amina--dourdi-181717?style=flat&logo=github)](https://github.com/amina-dourdi)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Amina%20Dourdi-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/amina-dourdi-2a8707318)
-![Location](https://img.shields.io/badge/Nador-Morocco 🇲🇦-green?style=flat)
+[![Email](https://img.shields.io/badge/Email-amina.dourdi%40gmail.com-red?style=flat&logo=gmail)](mailto:amina.dourdi@gmail.com)
 
 ---
 
