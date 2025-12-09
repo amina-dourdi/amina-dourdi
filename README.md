@@ -39,7 +39,7 @@ amina = {
 
 ---
 
-# 🧰 My Tools (SVG Icons)
+# 🧰 My Tools
 
 ### 🔧 Development & Programming
 <p>
