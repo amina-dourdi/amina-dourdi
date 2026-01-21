@@ -1,4 +1,5 @@
 # 🌟 Hello World! I'm **Amina Dourdi**
+**Data Engineering Student** — Nador, Morocco 🇲🇦
 
 ![Profile Views](https://komarev.com/ghpvc/?username=amina-dourdi&color=blueviolet&style=flat)
 
@@ -8,13 +9,14 @@
 
 ---
 
+
+
 ## 🚀 Quick Overview
 
 | Category | Info |
 |---------|------|
-| **Portfolio** | Coming Soon… |
-| **LinkedIn** | [View Profile](https://www.linkedin.com/in/amina-dourdi-2a8707318) |
 | **Email** | amina.dourdi@gmail.com |
+| **LinkedIn** | https://www.linkedin.com/in/amina-dourdi-2a8707318 |
 | **GitHub** | https://github.com/amina-dourdi |
 
 ---
@@ -24,10 +26,9 @@
 ```python
 amina = {
     "role": "Data Engineering Student @ ENSA Al Hoceima",
-    "focus": "Data Analytics, Machine Learning & Visualization",
-    "specialization": ["Python", "Big Data", "SQL/NoSQL", "DataViz"],
-    "currentWork": "Digital Dashboard for Aeronautics (Terra Nova EBS)",
-    "interests": [
+    "focus": "Data Engineering, Analytics, Machine Learning & Data Visualization",
+    "specialization": ["Python", "Big Data", "SQL/NoSQL", "Dashboards"],
+        "interests": [
         "Machine Learning", 
         "Automation",
         "Cloud Data Pipelines",
@@ -54,6 +55,7 @@ amina = {
 ### 🗂 Databases
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="45">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="45">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="45">
 </p>
@@ -62,8 +64,8 @@ amina = {
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="45">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" width="45">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/Power_BI_Logo.svg" width="60">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="45">
+  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" width="45">
 </p>
 
 ### 🌐 Web Development
@@ -87,7 +89,50 @@ amina = {
 
 ---
 
-# 🏆 Certifications
+## 💼 Professional Experience
+
+### 📈 Intern — Digital Dashboard Development | **Terra Nova EBS** (Al Hoceima)
+**Jul 2025 – Sep 2025**
+- Designed a **Power BI dashboard** to monitor aeronautics purchasing activities  
+- Data integration & visualization with **Power BI + Excel**
+
+### 🏥 Intern — Radiology Department | **CH Provincial Med VI** (Al Hoceima)
+**Jun 2025 – Aug 2025**
+- Supported daily radiology activities  
+- Assisted with medical data organization & imaging workflow
+
+---
+
+## 🌟 Featured Academic Projects
+
+### 🧾 Batch Procurement Data Pipeline — *Jan 2026*
+Batch pipeline: ingestion → processing → net demand → supplier orders generation  
+**Tech:** HDFS, Presto/Trino, Hive Metastore, PostgreSQL, Python, Docker  
+🔗 https://github.com/amina-dourdi/batch-procurement-data-pipeline
+
+### 👕 Fashion-MNIST Classification — *Dec 2025*
+Image classification + model comparison (LogReg, SVM, Random Forest)  
+🔗 https://github.com/amina-dourdi/Fashion-MNIST-Classification-using-Machine-Learning
+
+### 🏠 House Prices Regression End-to-End — *Dec 2025*
+Kaggle House Prices: EDA, feature engineering, tuning  
+🔗 https://github.com/amina-dourdi/machine-learning-regression-end-to-end
+
+### 🍃 MongoDB Performance Optimization & Sharded Cluster — *Nov 2025*
+Data ingestion, sharding comparison, Docker cluster deployment & scalability analysis  
+🔗 https://github.com/amina-dourdi/fhv-tripdata-mongodb-optimization
+
+### 🩺 Medical Data Management & Statistics — *Mar 2025*
+Patient data management + analysis & visualization  
+🔗 https://github.com/amina-dourdi/Medical-Data-Management-and-Statistics
+
+### 🌦 Weather Forecast Application — *Feb 2025*
+Weather forecasting using OpenWeatherMap & Open-Meteo APIs  
+🔗 https://github.com/amina-dourdi/ApplicationWeather
+
+---
+
+## 🏆 Certifications
 
 | Certification | Platform | Year |
 |--------------|----------|------|
@@ -97,44 +142,27 @@ amina = {
 
 ---
 
-# 💼 Professional Experience
-
-### 🚀 Stagiaire — Terra Nova EBS (2025)
-- Développement d’un tableau de bord digital  
-- Visualisation via Power BI & Excel  
-- Automatisation avec Pandas + OpenPyXL  
-
-### 🏥 Stagiaire — CH Provincial Med VI (Radiologie)
-- Gestion de données médicales  
-- Organisation des images & statistiques  
+## 🌍 Languages
+- French: Native  
+- Arabic: Fluent  
+- English: Intermediate  
+- Dutch: Elementary  
+- Spanish: Beginner  
+- Chinese: Beginner  
 
 ---
 
-# 🌟 Featured Academic Projects
-
-### 🩺 Medical Data Management System  
-🔗 https://github.com/amina-dourdi/Medical-Data-Management-and-Statistics  
-
-### 🌦 Weather Forecast Application  
-🔗 https://github.com/amina-dourdi/ApplicationWeather  
-
----
-
-# 🌙 Dark Mode GitHub Stats
-
+## 🌙 GitHub Stats
 <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=amina-dourdi&show_icons=true&theme=tokyonight" width="420">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amina-dourdi&layout=compact&theme=tokyonight" width="350">
+  <img src="https://github-readme-stats.vercel.app/api?username=amina-dourdi&show_icons=true&theme=tokyonight" width="420">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amina-dourdi&layout=compact&theme=tokyonight" width="350">
 </p>
 
 ---
 
-# 🤝 Let's Connect!
+## 🤝 Let's Connect!
+📧 Email: **amina.dourdi@gmail.com**  
+🔗 LinkedIn: **https://www.linkedin.com/in/amina-dourdi-2a8707318**  
+🐙 GitHub: **https://github.com/amina-dourdi**
 
-📧 Email : **amina.dourdi@gmail.com**  
-🔗 LinkedIn : **https://www.linkedin.com/in/amina-dourdi-2a8707318**  
-🐙 GitHub : **https://github.com/amina-dourdi**
-
----
-
-⭐ *N’hésite pas à star mes projets !*
+⭐ Feel free to star my projects!
