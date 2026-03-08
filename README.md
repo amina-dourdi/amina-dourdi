@@ -1,5 +1,5 @@
 # 🌟 Hello World! I'm **Amina Dourdi**
-**Data Engineering Student** — Nador, Morocco 🇲🇦
+**Data Engineering Student** — Nador, Morocco
 
 ![Profile Views](https://komarev.com/ghpvc/?username=amina-dourdi&color=blueviolet&style=flat)
 
