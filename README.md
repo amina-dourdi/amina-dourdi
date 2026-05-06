@@ -16,6 +16,7 @@
 | Category | Info |
 |---------|------|
 | **Email** | amina.dourdi@gmail.com |
+| **Portfolio** | https://amina-dourdi.github.io/ |
 | **LinkedIn** | https://www.linkedin.com/in/amina-dourdi-2a8707318 |
 | **GitHub** | https://github.com/amina-dourdi |
 
@@ -142,9 +143,9 @@ Weather forecasting using OpenWeatherMap & Open-Meteo APIs
 
 ---
 
-## 🌍 Languages
-- French: Native  
+## 🌍 Languages 
 - Arabic: Fluent  
+- French: Fluent 
 - English: Intermediate  
 - Dutch: Elementary  
 - Spanish: Beginner  
@@ -162,6 +163,7 @@ Weather forecasting using OpenWeatherMap & Open-Meteo APIs
 
 ## 🤝 Let's Connect!
 📧 Email: **amina.dourdi@gmail.com**  
+🌐 Portfolio: **https://amina-dourdi.github.io/**  
 🔗 LinkedIn: **https://www.linkedin.com/in/amina-dourdi-2a8707318**  
 🐙 GitHub: **https://github.com/amina-dourdi**
 
