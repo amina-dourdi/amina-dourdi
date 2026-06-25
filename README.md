@@ -42,12 +42,21 @@ amina = {
         "Data Visualization"
     ],
     "technical_profile": {
-        "programming": ["C", "Java", "Python", "SQL", "PL/SQL", "MATLAB", "R"],
-        "web": ["HTML", "CSS", "JavaScript", "Bootstrap", "PHP", "Spring Boot"],
-        "data_visualization": ["Pandas", "NumPy", "Matplotlib", "scikit-learn", "Power BI"],
+        "programming_development": [
+            "C", "Java", "Python", "SQL", "PL/SQL", "MATLAB", "R",
+            "HTML", "CSS", "JavaScript", "Bootstrap", "PHP",
+            "Spring", "Spring Boot"
+        ],
+        "data_ai_big_data": [
+            "Pandas", "NumPy", "Matplotlib", "Scikit-learn", "Power BI",
+            "Machine Learning", "Deep Learning", "NLP", "RAG",
+            "Computer Vision", "Data Mining", "Big Data",
+            "Data Lake", "Data Warehouse", "Spark", "Kafka"
+        ],
         "databases": ["MySQL", "PostgreSQL", "Oracle", "MongoDB"],
-        "big_data_ai": ["Spark", "Kafka", "Airflow", "Machine Learning", "Deep Learning", "NLP", "Computer Vision"],
-        "tools": ["Docker", "Git", "GitHub", "Gantt", "Scrum", "Linux", "Windows"]
+        "devops_tools_methods": ["Docker", "Git", "GitHub", "Scrum", "Gantt"],
+        "modeling": ["Merise", "UML"],
+        "operating_systems": ["Linux", "Ubuntu", "Fedora", "Windows"]
     },
     "goal": "Contribute to concrete and innovative projects while strengthening my technical and professional skills."
 }
@@ -57,7 +66,7 @@ amina = {
 
 # 🧰 My Tools
 
-### 🔧 Development & Programming
+### 🔧 Programming & Development
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45" alt="C">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" alt="Java">
@@ -75,10 +84,11 @@ amina = {
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45" alt="CSS3">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="45" alt="Bootstrap">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="45" alt="Spring Boot">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="45" alt="FastAPI">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="45" alt="PHP">
 </p>
 
-**Also:** Thymeleaf, Spring Security, FastAPI
+**Also:** Thymeleaf, Spring Security, Streamlit, WebSockets
 
 ### 🗂 Databases & Storage
 <p>
@@ -90,28 +100,31 @@ amina = {
 
 **Also:** MariaDB, Cassandra, HDFS, MinIO, Data Lake, Data Warehouse
 
-### 📊 Data Science, AI & Visualization
+### 📊 Data, AI & Big Data
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="45" alt="NumPy">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45" alt="Pandas">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="45" alt="Matplotlib">
   <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" width="45" alt="Power BI">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="45" alt="Deep Learning">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="45" alt="PyTorch">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="45" alt="TensorFlow">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" width="45" alt="Kafka">
 </p>
 
-**Also:** scikit-learn, Machine Learning, Deep Learning, NLP, Computer Vision, Data Mining, Transformers, Pose Estimation
+**Also:** Scikit-learn, Machine Learning, Deep Learning, NLP, RAG, Transformers, Hugging Face, Sentence-Transformers, FAISS, Computer Vision, MediaPipe Holistic, Data Mining, Spark, Kafka, Flink, Airflow, Trino, Avro, Grafana,
 
-### ⚙️ Big Data, DevOps & Project Tools
+### ⚙️ DevOps, Tools & Methodologies
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="55" alt="Docker">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" alt="Git">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" alt="GitHub">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45" alt="Linux">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" width="45" alt="Ubuntu">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fedora/fedora-original.svg" width="45" alt="Fedora">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45" alt="VS Code">
 </p>
 
-**Also:** Spark, Kafka, Flink, Airflow, Trino, Avro, Grafana, Gantt, Scrum, Fedora, Windows
+**Also:** Scrum, Gantt, Windows
 
 ---
 
@@ -131,23 +144,27 @@ amina = {
 
 ## 🌟 Featured Academic Projects
 
-### 🤟 AI Sign Language Translation System — *May 2026*
-Automatic sign language translation system into text using an end-to-end AI approach  
-- Designed a **Transformer-based Pose-to-Text pipeline** with CTC Loss  
-- Used **RWTH-PHOENIX-Weather 2014** for continuous sign language translation  
-- Evaluated the system with **WER, BLEU-4, ROUGE and CHRF**  
-**Tech:** Python, Deep Learning, Transformers, NLP, Computer Vision, Pose Estimation  
-🔗 https://github.com/amina-dourdi/sign-language-translation
+### 🧠 NLP Transformers & RAG Platform — *Jun 2026*
+NLP platform for text classification, sentiment analysis, question answering and automatic summarization using Transformers  
+- Built a **RAG system** with academic document indexing, semantic search and a chatbot based on provided content  
+- Implemented NLP workflows using **Hugging Face Transformers**, **Sentence-Transformers**, **FAISS** and **Streamlit**  
+**Tech:** Python, Hugging Face Transformers, Sentence-Transformers, FAISS, Streamlit  
+🔗 https://github.com/amina-dourdi/nlp-transformers-rag
 
-### 📝 Collaborative Annotation Platform — *May 2026*
-Web application for text annotation, annotation quality monitoring, and model training  
-**Tech:** Spring Boot, Thymeleaf, MySQL/MariaDB, Spring Security, Python  
+### 📝 Collaborative Annotation Platform — *Jun 2026*
+Web application for text annotation, annotation quality monitoring and model training  
+**Tech:** Spring Boot, Thymeleaf, MySQL, Spring Security, Python  
 🔗 https://github.com/amina-dourdi/Intelligent-Annotation-Model-Management-System
 
-### 🚕 TaaSim — Urban Mobility Big Data Platform — *Apr 2026*
+### 🚕 TaaSim — Urban Mobility Big Data Platform — *Jun 2026*
 Urban mobility platform for GPS flow processing, ride requests, matching and demand forecasting  
 **Tech:** Python, Kafka, Flink, Spark, MinIO, Cassandra, Grafana, Docker  
 🔗 https://github.com/amina-dourdi/taasim-urban-mobility-platform
+
+### 🤟 Sign Language Recognition with MSKA — *May 2026*
+Deep Learning system for continuous sign language recognition based on Computer Vision, keypoint extraction and a multi-stream Transformer architecture  
+**Tech:** Python, PyTorch, MediaPipe Holistic, FastAPI, WebSockets  
+🔗 https://github.com/amina-dourdi/sign-language-translation
 
 ### 💼 JobIntelligent Data Platform — *Apr 2026*
 Job offers analysis and recommendation platform based on a **Medallion architecture**  
@@ -161,12 +178,12 @@ Batch purchasing pipeline: ingestion, processing, net demand calculation and sup
 
 ### 👕 Fashion-MNIST Classification — *Dec 2025*
 Image classification on Fashion-MNIST with model comparison: Logistic Regression, SVM and Random Forest  
-**Tech:** Python, scikit-learn, preprocessing, scaling  
+**Tech:** Python, Scikit-learn, preprocessing, scaling  
 🔗 https://github.com/amina-dourdi/Fashion-MNIST-Classification-using-Machine-Learning
 
 ### 🏠 House Prices Regression End-to-End — *Dec 2025*
 End-to-end regression project on Kaggle House Prices: EDA, feature engineering and hyperparameter tuning  
-**Tech:** Python, Pandas, scikit-learn  
+**Tech:** Python, Pandas, Scikit-learn  
 🔗 https://github.com/amina-dourdi/machine-learning-regression-end-to-end
 
 ### 🍃 MongoDB Performance Optimization & Sharded Cluster — *Nov 2025*
@@ -190,7 +207,7 @@ Weather forecast application using real-time data and forecast APIs
 
 | Certification | Issuer / Platform | Date | Description |
 |--------------|-------------------|------|-------------|
-| Oracle Certified Professional: Java SE 17 Developer | Oracle | July 2026 | Professional certification in Java SE 17 development |
+| Oracle Certified Professional: Java SE 17 Developer | Oracle | Jun 2026 | Professional certification in Java SE 17 development |
 | Supervised Learning with Scikit-Learn | DataCamp | 2024 | Practical training on supervised learning models |
 | Power BI Online Course | Udemy | 2024 | Certification in data visualization with Power BI |
 
@@ -208,6 +225,7 @@ Weather forecast application using real-time data and forecast APIs
 ---
 
 ## 🌙 GitHub Stats
+
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=amina-dourdi&show_icons=true&theme=tokyonight" width="420" alt="Amina Dourdi GitHub Stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amina-dourdi&layout=compact&theme=tokyonight" width="350" alt="Amina Dourdi Top Languages">
@@ -219,6 +237,10 @@ Weather forecast application using real-time data and forecast APIs
 
 <p>
   <img src="https://github-profile-trophy.vercel.app/?username=amina-dourdi&theme=tokyonight&no-frame=true&row=1&column=6" alt="Amina Dourdi GitHub Trophies">
+</p>
+
+<p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amina-dourdi&theme=tokyo-night" alt="Amina Dourdi GitHub Activity Graph">
 </p>
 
 ---
