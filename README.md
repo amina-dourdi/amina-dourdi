@@ -1,15 +1,14 @@
 # 🌟 Hello World! I'm **Amina Dourdi**
-**Data Engineering Student** — Nador, Morocco
+**2nd-Year Data Engineering Student** — Nador, Morocco
 
 ![Profile Views](https://komarev.com/ghpvc/?username=amina-dourdi&color=blueviolet&style=flat)
 
 [![GitHub](https://img.shields.io/badge/GitHub-amina--dourdi-181717?style=flat&logo=github)](https://github.com/amina-dourdi)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Amina%20Dourdi-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/amina-dourdi-2a8707318)
+[![Portfolio](https://img.shields.io/badge/Portfolio-amina--dourdi.github.io-blue?style=flat&logo=vercel)](https://amina-dourdi.github.io/)
 [![Email](https://img.shields.io/badge/Email-amina.dourdi%40gmail.com-red?style=flat&logo=gmail)](mailto:amina.dourdi@gmail.com)
 
 ---
-
-
 
 ## 🚀 Quick Overview
 
@@ -19,6 +18,10 @@
 | **Portfolio** | https://amina-dourdi.github.io/ |
 | **LinkedIn** | https://www.linkedin.com/in/amina-dourdi-2a8707318 |
 | **GitHub** | https://github.com/amina-dourdi |
+| **Current Status** | 2nd-year Engineering Student in Data Engineering |
+| **School** | École Nationale des Sciences Appliquées — ENSA Al Hoceima |
+| **Internship Goal** | 2-month internship from **July 1st, 2026** |
+| **Main Fields** | Data Engineering, Big Data, AI, Machine Learning, Deep Learning, Data Visualization |
 
 ---
 
@@ -26,16 +29,27 @@
 
 ```python
 amina = {
-    "role": "Data Engineering Student @ ENSA Al Hoceima",
-    "focus": "Data Engineering, Analytics, Machine Learning & Data Visualization",
-    "specialization": ["Python", "Big Data", "SQL/NoSQL", "Dashboards"],
-        "interests": [
-        "Machine Learning", 
-        "Automation",
-        "Cloud Data Pipelines",
-        "Statistical Analysis"
+    "name": "Amina Dourdi",
+    "location": "Nador, Morocco",
+    "role": "2nd-Year Data Engineering Student @ ENSA Al Hoceima",
+    "specialization": "Data management, processing and visualization",
+    "focus": [
+        "Data Engineering",
+        "Big Data",
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Deep Learning",
+        "Data Visualization"
     ],
-    "goal": "Turn raw data into insights and intelligent decisions."
+    "technical_profile": {
+        "programming": ["C", "Java", "Python", "SQL", "PL/SQL", "MATLAB", "R"],
+        "web": ["HTML", "CSS", "JavaScript", "Bootstrap", "PHP", "Spring Boot"],
+        "data_visualization": ["Pandas", "NumPy", "Matplotlib", "scikit-learn", "Power BI"],
+        "databases": ["MySQL", "PostgreSQL", "Oracle", "MongoDB"],
+        "big_data_ai": ["Spark", "Kafka", "Airflow", "Machine Learning", "Deep Learning", "NLP", "Computer Vision"],
+        "tools": ["Docker", "Git", "GitHub", "Gantt", "Scrum", "Linux", "Windows"]
+    },
+    "goal": "Contribute to concrete and innovative projects while strengthening my technical and professional skills."
 }
 ```
 
@@ -45,48 +59,59 @@ amina = {
 
 ### 🔧 Development & Programming
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="45">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="45">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45" alt="C">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" alt="Java">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" alt="Python">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="45" alt="R">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="45" alt="PHP">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" alt="JavaScript">
 </p>
 
-### 🗂 Databases
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="45">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="45">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="45">
-</p>
-
-### 📊 Data Science & Visualization
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="45">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="45">
-  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" width="45">
-</p>
+**Also:** SQL, PL/SQL, MATLAB, UML, Merise
 
 ### 🌐 Web Development
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="45">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="45">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" alt="HTML5">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45" alt="CSS3">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="45" alt="Bootstrap">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="45" alt="Spring Boot">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="45" alt="PHP">
 </p>
 
-### 🧪 Tools, OS & DevOps
+**Also:** Thymeleaf, Spring Security, FastAPI
+
+### 🗂 Databases & Storage
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="55">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" width="45">
-  <img src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-icon.svg" width="45">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45" alt="MySQL">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="45" alt="PostgreSQL">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="45" alt="Oracle">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="45" alt="MongoDB">
 </p>
+
+**Also:** MariaDB, Cassandra, HDFS, MinIO, Data Lake, Data Warehouse
+
+### 📊 Data Science, AI & Visualization
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="45" alt="NumPy">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45" alt="Pandas">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="45" alt="Matplotlib">
+  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" width="45" alt="Power BI">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="45" alt="Deep Learning">
+</p>
+
+**Also:** scikit-learn, Machine Learning, Deep Learning, NLP, Computer Vision, Data Mining, Transformers, Pose Estimation
+
+### ⚙️ Big Data, DevOps & Project Tools
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="55" alt="Docker">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" alt="Git">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" alt="GitHub">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45" alt="Linux">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" width="45" alt="Ubuntu">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45" alt="VS Code">
+</p>
+
+**Also:** Spark, Kafka, Flink, Airflow, Trino, Avro, Grafana, Gantt, Scrum, Fedora, Windows
 
 ---
 
@@ -95,57 +120,86 @@ amina = {
 ### 📈 Intern — Digital Dashboard Development | **Terra Nova EBS** (Al Hoceima)
 **Jul 2025 – Sep 2025**
 - Designed a **Power BI dashboard** to monitor aeronautics purchasing activities  
-- Data integration & visualization with **Power BI + Excel**
+- Integrated and visualized data using **Power BI + Excel**
 
 ### 🏥 Intern — Radiology Department | **CH Provincial Med VI** (Al Hoceima)
 **Jun 2025 – Aug 2025**
-- Supported daily radiology activities  
-- Assisted with medical data organization & imaging workflow
+- Participated in daily radiology department activities  
+- Supported medical data management and imaging workflow
 
 ---
 
 ## 🌟 Featured Academic Projects
 
+### 🤟 AI Sign Language Translation System — *May 2026*
+Automatic sign language translation system into text using an end-to-end AI approach  
+- Designed a **Transformer-based Pose-to-Text pipeline** with CTC Loss  
+- Used **RWTH-PHOENIX-Weather 2014** for continuous sign language translation  
+- Evaluated the system with **WER, BLEU-4, ROUGE and CHRF**  
+**Tech:** Python, Deep Learning, Transformers, NLP, Computer Vision, Pose Estimation  
+🔗 https://github.com/amina-dourdi/sign-language-translation
+
+### 📝 Collaborative Annotation Platform — *May 2026*
+Web application for text annotation, annotation quality monitoring, and model training  
+**Tech:** Spring Boot, Thymeleaf, MySQL/MariaDB, Spring Security, Python  
+🔗 https://github.com/amina-dourdi/Intelligent-Annotation-Model-Management-System
+
+### 🚕 TaaSim — Urban Mobility Big Data Platform — *Apr 2026*
+Urban mobility platform for GPS flow processing, ride requests, matching and demand forecasting  
+**Tech:** Python, Kafka, Flink, Spark, MinIO, Cassandra, Grafana, Docker  
+🔗 https://github.com/amina-dourdi/taasim-urban-mobility-platform
+
+### 💼 JobIntelligent Data Platform — *Apr 2026*
+Job offers analysis and recommendation platform based on a **Medallion architecture**  
+**Tech:** Python, Airflow, MinIO, PostgreSQL, FastAPI, Power BI, NLP, Docker  
+🔗 https://github.com/amina-dourdi/JobIntelligent-Data-Platform
+
 ### 🧾 Batch Procurement Data Pipeline — *Jan 2026*
-Batch pipeline: ingestion → processing → net demand → supplier orders generation  
-**Tech:** HDFS, Presto/Trino, Hive Metastore, PostgreSQL, Python, Docker  
+Batch purchasing pipeline: ingestion, processing, net demand calculation and supplier orders generation  
+**Tech:** Python, HDFS, Trino, PostgreSQL, Avro, Docker  
 🔗 https://github.com/amina-dourdi/batch-procurement-data-pipeline
 
 ### 👕 Fashion-MNIST Classification — *Dec 2025*
-Image classification + model comparison (LogReg, SVM, Random Forest)  
+Image classification on Fashion-MNIST with model comparison: Logistic Regression, SVM and Random Forest  
+**Tech:** Python, scikit-learn, preprocessing, scaling  
 🔗 https://github.com/amina-dourdi/Fashion-MNIST-Classification-using-Machine-Learning
 
 ### 🏠 House Prices Regression End-to-End — *Dec 2025*
-Kaggle House Prices: EDA, feature engineering, tuning  
+End-to-end regression project on Kaggle House Prices: EDA, feature engineering and hyperparameter tuning  
+**Tech:** Python, Pandas, scikit-learn  
 🔗 https://github.com/amina-dourdi/machine-learning-regression-end-to-end
 
 ### 🍃 MongoDB Performance Optimization & Sharded Cluster — *Nov 2025*
-Data ingestion, sharding comparison, Docker cluster deployment & scalability analysis  
+FHV trip data preparation, MongoDB ingestion, index comparison, sharded cluster deployment and scalability analysis  
+**Tech:** Python, MongoDB, Dash/Plotly, Docker  
 🔗 https://github.com/amina-dourdi/fhv-tripdata-mongodb-optimization
 
 ### 🩺 Medical Data Management & Statistics — *Mar 2025*
-Patient data management + analysis & visualization  
+Patient data entry application with disease monitoring and statistical analysis through visualization  
+**Tech:** Python, Tkinter, Pandas, Matplotlib, PHP, CSS, HTML, JavaScript, MySQL  
 🔗 https://github.com/amina-dourdi/Medical-Data-Management-and-Statistics
 
 ### 🌦 Weather Forecast Application — *Feb 2025*
-Weather forecasting using OpenWeatherMap & Open-Meteo APIs  
+Weather forecast application using real-time data and forecast APIs  
+**Tech:** Python, OpenWeatherMap API, Open-Meteo API  
 🔗 https://github.com/amina-dourdi/ApplicationWeather
 
 ---
 
 ## 🏆 Certifications
 
-| Certification | Platform | Year |
-|--------------|----------|------|
-| Supervised Learning with Scikit-Learn | DataCamp | 2024 |
-| Understanding Artificial Intelligence | DataCamp | 2024 |
-| Power BI Online Course | Udemy | 2024 |
+| Certification | Issuer / Platform | Date | Description |
+|--------------|-------------------|------|-------------|
+| Oracle Certified Professional: Java SE 17 Developer | Oracle | July 2026 | Professional certification in Java SE 17 development |
+| Supervised Learning with Scikit-Learn | DataCamp | 2024 | Practical training on supervised learning models |
+| Power BI Online Course | Udemy | 2024 | Certification in data visualization with Power BI |
 
 ---
 
-## 🌍 Languages 
+## 🌍 Languages
+- Tarifit: Native language  
 - Arabic: Fluent  
-- French: Fluent 
+- French: Advanced  
 - English: Intermediate  
 - Dutch: Elementary  
 - Spanish: Beginner  
@@ -155,8 +209,16 @@ Weather forecasting using OpenWeatherMap & Open-Meteo APIs
 
 ## 🌙 GitHub Stats
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=amina-dourdi&show_icons=true&theme=tokyonight" width="420">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amina-dourdi&layout=compact&theme=tokyonight" width="350">
+  <img src="https://github-readme-stats.vercel.app/api?username=amina-dourdi&show_icons=true&theme=tokyonight" width="420" alt="Amina Dourdi GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amina-dourdi&layout=compact&theme=tokyonight" width="350" alt="Amina Dourdi Top Languages">
+</p>
+
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amina-dourdi&theme=tokyonight" width="420" alt="Amina Dourdi GitHub Streak">
+</p>
+
+<p>
+  <img src="https://github-profile-trophy.vercel.app/?username=amina-dourdi&theme=tokyonight&no-frame=true&row=1&column=6" alt="Amina Dourdi GitHub Trophies">
 </p>
 
 ---
